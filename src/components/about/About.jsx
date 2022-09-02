@@ -31,7 +31,7 @@ const About = () => {
         <h5>Clients</h5>
         <small>Currently None LOL</small>
         </article>
-        <a href='https://www.google.com' target='_blank'>
+        <a href='https://github.com/DebayanSen96?tab=repositories' target='_blank'>
         <article className='about__card'>
           <VscFolderLibrary className='about__icon'/>
         <h5>Projects</h5>
